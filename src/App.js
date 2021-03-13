@@ -1,7 +1,7 @@
 import React from 'react';
 import Pug from 'pug';
 
-import './App.css';
+import './App.scss';
 
 import Input from './component/Input.js';
 import Render from './component/Render.js';
